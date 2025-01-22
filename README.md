@@ -32,7 +32,10 @@ project/
 
 ### Installation
 1. Clone or download the repository.
-2. Open the `index.html` file in a browser to run the application.
+    ```bash
+   git clone https://github.com/hitakshigabani21/currency-converter.git
+   ```
+3. Open the `index.html` file in a browser to run the application.
 
 ### API Configuration
 The app uses the [FreeCurrencyAPI](https://freecurrencyapi.com/) for exchange rates. Replace the placeholder API key in `code.js` with your API key:
